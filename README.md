@@ -1,8 +1,22 @@
 bough - a tale of time
 ====
 
-The pines sway with a morning breeze that comes rolling off the Pacific ocean.  You are standing in a patch of sun on a bluff, a hundred feet or so above a beach filled with kelp, scuttling hermit crabs, sea foam, sea spray, sea smells, and seashells.  It's not quite 8am yet, and you've got a cup of coffee in your hand.
+You turn, feeling the ocean's expanse curl around your body and gently pull from your back.  With each step the waves crashing below grow quieter, the crunching of pine needles and squishing of morning dew on grass grows louder.
 
-To take the switchbacking trail on your right that goes down to the beach, `git checkout beach`.
+This was an unwise decision.  This is when the confusion sets in.
 
-To turn around and walk inland, `git checkout inland`.
+Why were you on the bluff in the first place?  Where did the telescope come from?  Damn, that beach looked nice in the morning rays.
+
+The forest gets thicker as you climb and fall in elevation.  A stream begins to wind around the trail you are following, and the air gets sweeter with it.
+
+The ocean sounds are gone.  How could that be?  Such a massive thing, so quiet now.
+
+You begin to feel queezy, like you are car or boatsick; it's the unsettled mind made manifest.  
+
+You sit down on the stump of a log that has been cut to make way for the trail, sawed into pieces, and discarded on the side of the trail.
+
+To rest, and see if you can collect your thoughts, `git checkout logrest`.
+
+To get up and keep moving inland, `git checkout inlandcontinue`.
+
+
