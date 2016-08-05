@@ -1,8 +1,12 @@
 bough - a tale of time
 ====
 
-The pines sway with a morning breeze that comes rolling off the Pacific ocean.  You are standing in a patch of sun on a bluff, a hundred feet or so above a beach filled with kelp, scuttling hermit crabs, sea foam, sea spray, sea smells, and seashells.  It's not quite 8am yet, and you've got a cup of coffee in your hand.
+With the precision of a person freshly caffeinated, you make your way towards the trail.  Stepping gingerly over twigs, puddles in grass from the rains last night, you can hear the sound of waves crashing on the beach getting louder as you find the trail.  
 
-To take the switchbacking trail on your right that goes down to the beach, `git checkout trail`.
+It's not much of one: a series of switchbacks cut into the bluff.  Some kind soul had laid gravel over the trail at some point keeping the bulk of the verdant Earth around from swallowing it up.  
 
-To turn around and walk inland, `git checkout inland`.
+You are a couple bends down, have not spilled a drop of coffee and you pause for a minute to take in the ocean.
+
+You notice something strange, a pile of driftwood stacked too orderly to be the work of storms.  It's not more than a 1/2 mile down the beach to the South.
+
+ADD CHOICES HERE
